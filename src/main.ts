@@ -6,3 +6,6 @@ async function bootstrap() {
   await app.listen(3000);
 }
 bootstrap();
+
+//banco de dados mongodb+docker 
+// https://renatogroffe.medium.com/mongodb-mongo-express-docker-compose-montando-rapidamente-um-ambiente-para-uso-824f25ca6957
